@@ -6,7 +6,9 @@
     justify-content: space-between;
     align-items: center;
     padding: 70px;
-  }
+    margin-top: 40px;
+  
+   }
   
   .left-column {
     font-family: 'Ranga', cursive;
@@ -17,7 +19,7 @@
   .center-column {
     display: grid;
     grid-template-columns: 1fr;
-    grid-gap: 42px;
+    gap: 42px;
     margin-top: 40px;
     width: 33%;
   }
@@ -60,6 +62,7 @@
     font-family: 'Ranga', cursive;
     font-size: 2.5em;
     text-decoration: none;
+    
   }
   
 

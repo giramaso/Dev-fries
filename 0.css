@@ -1,0 +1,16 @@
+.nav-link{
+    font-size: 55px;
+    color: red;
+}
+
+.nav-link > a{
+    text-decoration: none;
+    color: salmon;
+}
+
+
+.nav-link > img{
+    height: 55px;
+    width: 55px;
+    filter: invert(100);
+}

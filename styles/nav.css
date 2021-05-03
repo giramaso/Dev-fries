@@ -41,6 +41,7 @@
     text-decoration: none;
     font-size: 0.9em;
     transition: 0.5s;
+    
 }
 .navigation-wrapper > .left-column a:hover{
     color: #cea135;
@@ -96,6 +97,9 @@ transition: 0.5s;
 .navigation-wrapper > .right-column{
     display: flex;
     align-items: center;
+    display: grid;
+    grid-template-columns: 1fr;
+    text-align: right;
 }
 .navigation-wrapper > .right-column > .phone-icon{
     margin-left: 15px;

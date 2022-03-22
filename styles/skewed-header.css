@@ -14,7 +14,7 @@
     width: 100%;
     background-repeat: no-repeat;
     background-size: 100%;
-    transform: skewY(-6deg);
+    transform: skewY(-15deg);
     transform-origin: top left;
     filter: brightness(50%);
 }

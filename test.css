@@ -1,0 +1,38 @@
+body{
+    margin: 0px;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    width: 100vw;
+    padding: 21px;
+    align-items: center;
+    box-shadow: 8px 8px 30px 3px rgb(0 0 0 / 40%);
+    margin-bottom: 42px;
+}
+.left{
+    display: flex;
+    justify-content: space-between;
+    width: 25vw;
+}
+.logo img{
+width: 10vw;
+}
+.links-wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+.links-wrapper a{
+    color: #00c274;
+    font-family: "Ubuntu", sans-serif;
+
+}
+
+.center{
+    width: 50vw;
+    
+}
+.right{
+    width: 25vw;
+}
